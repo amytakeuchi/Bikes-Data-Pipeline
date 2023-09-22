@@ -1,0 +1,16 @@
+#Setup
+
+##Setting up Google Cloud Platform
+### Create GCP Account
+
+### Create a GCP Project
+
+## Set up environment - AirFlow
+### Install required packages - Docker and Terraform
+
+### Setup envorinment variables
+
+### Setup cloud resources on Terraform
+
+### Setting up Docker Compose
+
